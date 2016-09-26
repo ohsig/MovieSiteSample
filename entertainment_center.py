@@ -2,7 +2,7 @@ import media
 import fresh_tomatoes
 
 the_godfather = media.Movie("The Godfather",
-                        "Never let anyone outside th family know what you're thinking.",
+                        "Never let anyone outside the family know what you're thinking.",
                         "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
                         "https://www.youtube.com/watch?v=sY1S34973zA")
 avatar = media.Movie("Tron",
@@ -10,7 +10,7 @@ avatar = media.Movie("Tron",
                      "https://upload.wikimedia.org/wikipedia/en/1/17/Tron_poster.jpg",
                      "https://www.youtube.com/watch?v=3efV2wqEjEY")
 empire_strikes_back = media.Movie("Star Wars: Empire Strikes Back",
-                                  "You know the empire?....well they strike back.",
+                                  "You know the Empire?....well, they strike back.",
                                   "https://upload.wikimedia.org/wikipedia/en/3/3c/SW_-_Empire_Strikes_Back.jpg",
                                   "https://www.youtube.com/watch?v=xESiohGGP7g")
 wall_e = media.Movie("Wall-E",
@@ -22,7 +22,7 @@ blues_brothers = media.Movie("The Blues Brothers",
                              "https://upload.wikimedia.org/wikipedia/en/a/ae/Bluesbrothersmovieposter.jpg",
                              "https://www.youtube.com/watch?v=A-xtJYIwfYo")
 dark_knight = media.Movie("The Dark Knight",
-                          "the Joker wreaks havoc and chaos on the people of Gotham.",
+                          "The Joker wreaks havoc and chaos on the people of Gotham. Batman responds.",
                           "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
                           "https://www.youtube.com/watch?v=EXeTwQWrcwY")
 
