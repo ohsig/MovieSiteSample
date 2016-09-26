@@ -9,7 +9,7 @@ avatar = media.Movie("Tron",
                      "In the future video game battles will be a matter of life or death.",
                      "https://upload.wikimedia.org/wikipedia/en/1/17/Tron_poster.jpg",
                      "https://www.youtube.com/watch?v=3efV2wqEjEY")
-empire_strikes_back = media.Movie("Star Wars: Empire Strikes Back",
+empire_strikes_back = media.Movie("Star Wars: The Empire Strikes Back",
                                   "You know the Empire?....well, they strike back.",
                                   "https://upload.wikimedia.org/wikipedia/en/3/3c/SW_-_Empire_Strikes_Back.jpg",
                                   "https://www.youtube.com/watch?v=xESiohGGP7g")
